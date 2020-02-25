@@ -1,6 +1,6 @@
 # AutomationDesignPatterns
 
-Following are the few design patterns we will discuss in the document:
+Following are the few design patterns for automation we will discuss in the document:
 1.	Page Object
 2.	Page Factory
 3.	Strategy Pattern
